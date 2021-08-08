@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashant Pandey currently pursuing B.E. in CSE from Chandigarha University
+- 👋 Hi, I’m Prashant Pandey currently pursuing B.E. in CSE from Chandigarh University
 - 👀 I’m interested in Android Development and Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms
 
